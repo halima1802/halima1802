@@ -1,11 +1,7 @@
 
 ![github-header-image (4)](./github-header-banner.png)
 
-<h3 align="center">I am a passionate and motivated final-year student studying Computer Engineering, with a keen interest in problem-solving and software development</h3>
-
-- 🌱 I’m currently learning **Flutter**
-
-- 👯 I’m looking to collaborate on **Web Development Projects**
+<h3 align="center">SDE | Tech enthusiast | Crafting real-time experiences with WebRTC and beyond.</h3>
 
 - 📫 How to reach me **rajwanihalima9@gmail.com**
 
