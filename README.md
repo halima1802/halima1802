@@ -1,5 +1,5 @@
 
-![github-header-image (4)](https://github.com/Halima1872/Halima1872/assets/80054554/fe39cbb8-12b0-439b-b571-d0eae7081449)
+![github-header-image (4)](./github-header-banner.png)
 
 <h3 align="center">I am a passionate and motivated final-year student studying Computer Engineering, with a keen interest in problem-solving and software development</h3>
 
